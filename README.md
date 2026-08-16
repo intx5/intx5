@@ -35,4 +35,3 @@ I enjoy understanding how software works at a low level, analyzing PE binaries, 
 ---
 
 ### Building tools to understand binaries, not just run them.
-.
