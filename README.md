@@ -4,6 +4,8 @@ I'm interested in **malware analysis, reverse engineering, binary analysis, DFIR
 
 I enjoy understanding how software works at a low level, analyzing PE binaries, studying malware behavior, and building security tooling.
 
+I also enjoy solving CTF challenges across reverse engineering, cryptography, web security, pwn, and binary exploitation.
+
 ## Languages & Tools
 
 <p>
